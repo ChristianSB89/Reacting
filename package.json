@@ -2,7 +2,7 @@
   "name": "reacting",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://christiansb89.github.io/reactingpage",
+  "homepage": "https://christiansb89.github.io/reacting/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",

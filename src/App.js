@@ -1,7 +1,7 @@
 import "./App.css";
 import React from "react";
 import HomePage from "./components/HomePage";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import { StyledNavBar } from "./components/styled-components/styles";
 import About from "./components/About";
 import Gallery from "./components/Gallery";
